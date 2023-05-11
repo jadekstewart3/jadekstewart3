@@ -1,7 +1,7 @@
 
 ### <div align="center">Hi I'm Jade! ✌️Backend Engineer Extraordinaire!</div>  
   
-
+<div align="center">
 - 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)  
   
 
@@ -13,7 +13,7 @@
 
 - 🌈 Reach me at: jadekstewart3@gmail.com  
   
-
+</div>
 <br/>  
 
 
@@ -43,10 +43,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -67,11 +64,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jadekstewart3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
