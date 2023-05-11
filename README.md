@@ -2,16 +2,16 @@
 ### <div align="center">Hi I'm Jade! ✌️Backend Engineer Extraordinaire!</div>  
   
 <div align="center">
-- 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)  
+ 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)  
   
 
-- 🌱 I’m currently learning JavaScript and React  
+🌱 I’m currently learning JavaScript and React  
   
 
-- ❓ Ask me about anything related to Ruby!  
+❓ Ask me about anything related to Ruby!  
   
 
-- 🌈 Reach me at: jadekstewart3@gmail.com  
+ 🌈 Reach me at: jadekstewart3@gmail.com  
   
 </div>
 <br/>  
@@ -20,8 +20,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
+  
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -68,10 +67,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jadekstewart3&&style=flat-square" align="center" />
 </div>  
@@ -80,7 +75,3 @@
 <br/>  
 
 <div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
