@@ -2,7 +2,7 @@
 ### <div align="center">Hi I'm Jade! ✌️Backend Engineer Extraordinaire!</div>  
   
 <div align="center">
- 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)  
+ 🔭 I’m currently working on [Inner Worlds] (https://github.com/Inner-Worlds)  
   
 
 🌱 I’m currently learning JavaScript and React  
