@@ -3,7 +3,7 @@
   
 <div align="center">
   
- 🔭 I’m currently working on <a href="https://github.com/Inner-Worlds">Inner Worlds</a> 
+ 🔭 I’m currently working on <a href="https://github.com/Inner-Worlds](https://github.com/rubyforgood/pet-rescue">Pets Rescue</a> 
   
 
 🌱 I’m currently learning JavaScript and React  
@@ -50,7 +50,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/jadekstewart3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jadestewart-software-engineer/" target="_blank">
