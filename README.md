@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src=![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadekstewart&theme=neon&show_icons=true) /></div>  
+![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadekstewart3&theme=neon&show_icons=true)</div>  
   
 
 <br/>  
