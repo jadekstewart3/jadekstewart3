@@ -3,10 +3,10 @@
   
 <div align="center">
   
- 🔭 I’m currently working on <a href="https://github.com/rubyforgood/pet-rescue">Pet Rescue</a> 
+ 🔭 I’m working on <a href="https://github.com/rubyforgood/pet-rescue">Pet Rescue</a> 
   
 
-🌱 I’m currently learning JavaScript and React  
+🌱 I’m learning JavaScript and React  
   
 
 ❓ Ask me about anything related to Ruby!  
