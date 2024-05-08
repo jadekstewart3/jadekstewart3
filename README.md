@@ -3,7 +3,7 @@
   
 <div align="center">
   
- 🔭 I’m working on <a href="https://github.com/rubyforgood/pet-rescue">Pet Rescue</a> 
+ 🔭 I’m working on <a href="https://github.com/rubyforgood/pet-rescue">Pet Rescue</a> and <a href="https://github.com/rubyforgood/human-essentials"> Human Essentials</a>
   
 
 🌱 I’m learning JavaScript and React  
